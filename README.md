@@ -14,9 +14,9 @@ Apart from the normal libraries in a data science project. I use to graph a libr
 
 For this project, I was interestested in using Airbnb data from 2016 to better understand:
 
-1. ¿What is the distribution of the prices around Seattle?
-2. ¿Is important the number of reviews to predict the price?
-3. ¿Which features are more influential for predict the price?
+1. What is the distribution of the prices around Seattle?
+2. Is important the number of reviews to predict the price?
+3. Which features are more influential for predict the price?
 
 This questions guided me throughout the data and all analysis that I did you will find in this repository. 
 
