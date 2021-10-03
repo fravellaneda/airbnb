@@ -31,7 +31,7 @@ There is an additional `.geojson` file that save the information of the neighbor
 
 ## Results<a name="results"></a>
 
-The main results of the analysis can be found at a medium post [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The main results of the analysis can be found at a medium post [here](https://medium.com/@fr-ave/is-the-location-the-most-important-feature-to-the-price-of-an-airbnb-a4f3294abb23).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
