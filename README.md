@@ -35,5 +35,5 @@ The main results of the analysis can be found at a medium post [here](https://me
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-This repository is part of the project of the udacity data scientist nanodegree program. The data from Airbnb has taken from Kaggle link available [here](https://www.kaggle.com/airbnb/seattle/data). Tahnks for read, if you have comments or advices please contact me in fr_avellaneda@hotmail.com.
+This repository is part of the project of the udacity data scientist nanodegree program. The data from Airbnb has taken from Kaggle link available [here](https://www.kaggle.com/airbnb/seattle/data). Thanks for read, if you have comments or advices please contact me in fr_avellaneda@hotmail.com.
 
